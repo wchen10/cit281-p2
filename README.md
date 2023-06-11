@@ -6,4 +6,5 @@ Gain experience writing and executing non-web server Node.js JavaScript code
 
 Practice refactoring JavaScript code
 
-<img src = https://raw.githubusercontent.com/zzzprojects/learn-orm/master/tutorials/visual-studio-code/images/version-control-3.png>
+
+![version-control-3 (1)](https://github.com/wchen10/cit281-p2/assets/133428171/ea8b3104-63ea-4bce-88d2-d357e4bc2efe)
